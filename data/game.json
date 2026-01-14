@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher 3",
+    "genre": "RPG",
+    "platform": "PC",
+    "price": 29.99,
+    "releaseDate": "2015-05-19",
+    "rating": 9.5,
+    "description": "An open-world RPG adventure"
+  }
+]
