@@ -166,22 +166,7 @@ Ouvrir le dossier dans un éditeur de code
 Lancer l’application :
 
 Option 1 : Serveur local (recommandé)
-# Python
-python -m http.server 8000
 
-# PHP
-php -S localhost:8000
-Option 2 : Accès direct
-Ouvrir index.html dans le navigateur
-⚠️ Certaines fonctionnalités peuvent être limitées à cause de CORS
-
-Accès
-http://localhost:8000
-ou
-
-Ouverture directe de index.html
-
-Identifiants de connexion
 Utilisateur : admin
 
 Mot de passe : admin
@@ -212,16 +197,4 @@ Export PDF / CSV
 
 Vérifier le chargement de jsPDF
 
-🎯 Améliorations futures
-Intégration d’un backend réel
-
-Synchronisation des données en temps réel
-
-Gestion multi-utilisateurs
-
-Import de données
-
-Mode sombre
-
-Filtres avancés
 
