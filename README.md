@@ -192,7 +192,7 @@ Vérifier que Chart.js est bien chargé
 Problèmes de routage
 
 Vérifier les erreurs dans la console
-<img width="775" height="623" alt="image" src="https://github.com/user-attachments/assets/d5a63dd0-224c-4d21-bcf1-cc1707745105" />
+
 
 
 Export PDF / CSV
